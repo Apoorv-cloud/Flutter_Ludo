@@ -1,6 +1,9 @@
-# Flutter_Ludo
+# Ludo Game with Flutter 
 
-Ludo Game Project.
+Have you ever thought of gaining gaming experience with Flutter? Have you ever thought about building an app similar to Ludo King with modern features? Have you ever thought about how the Ludo app generates revenues? Here we go to build an interesting game with Flutter!
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-2196F3.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
+[![language](https://img.shields.io/github/languages/top/smokelaboratory/fludo.svg?style=for-the-badge&colorB=00bfab)](https://kotlinlang.org/)
 
 ## Getting Started
 

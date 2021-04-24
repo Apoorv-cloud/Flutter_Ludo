@@ -39,10 +39,6 @@ In order to play the game, you need to first run it using a simulator or device.
 ![gameplpay](https://github.com/Apoorv-cloud/Flutter_Ludo/blob/master/images/ludo.jpg)
 
 
-## 🔑 License
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
-
-
 ## ⭐ How to get started?
 
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com) <br>
@@ -138,7 +134,12 @@ Once you have completed these steps, you are ready to start building this projec
 <br>
 
 
-## If you liked the repo then kindly support it by giving it a star ⭐!
+## 🔑 License
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+
+
+
+# If you liked the repo then kindly support it by giving it a star ⭐!
 
 ```csharp 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

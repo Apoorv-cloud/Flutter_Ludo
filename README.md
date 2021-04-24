@@ -30,7 +30,7 @@ In order to play the game, you need to first run it using a simulator or device.
 * Cut will happen when applicable.
 * A cut token will traverse all the way back to home occupying the first available slot.
 
-![gameplpay](https://github.com/Apoorv-cloud/Flutter_Ludo/blob/master/images/2.png)
+![gameplpay](https://github.com/Apoorv-cloud/Flutter_Ludo/blob/master/images/ludo.jpg)
 
 ## License
 

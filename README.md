@@ -142,7 +142,7 @@ $ git push origin master
 
 ### 5️⃣ Ready Steady Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start build this project.
+Once you have completed these steps, you are ready to start building this project.
 
 <br>
 

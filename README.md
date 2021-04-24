@@ -28,7 +28,7 @@ In order to play the game, you need to first run it using a simulator or device.
 * Tap on the token.
 * Token moves if the move is valid.
 * Cut will happen when applicable.
-* A cut token will traverse all the way back to home occupying the first available slot.
+* A cut token will traverse all the way back to home occupying the first available slot. <br><br>
 
 ![gameplpay](https://github.com/Apoorv-cloud/Flutter_Ludo/blob/master/images/ludo.jpg)
 

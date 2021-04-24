@@ -5,9 +5,32 @@ Have you ever thought of gaining gaming experience with Flutter? Have you ever t
 [![License](https://img.shields.io/badge/License-Apache%202.0-2196F3.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 [![language](https://img.shields.io/github/languages/top/smokelaboratory/fludo.svg?style=for-the-badge&colorB=00bfab)](https://kotlinlang.org/)
 
-## Getting Started
+## Features
+
+* Tokens can come out of Home Area only when dice has 6.
+* True Dice
+* Cut/Token Kill logic implemented.
+* User can tap on a token to make it move. Only valid moves are made.
+* Safe area "Star" implemented.
+* Safe area coloured path near-final destination implemented.
+* Tokens follow the only eligible path.
+* Animated reversal of cut/killed tokens.
+* Works on both iOS and Android
 
 This project is free to use and can act as a starting point for your awesome Ludo App.
+
+
+## Gameplay
+
+In order to play the game, you need to first run it using a simulator or device.
+
+* Tap on dice at the bottom.
+* Tap on the token.
+* Token moves if the move is valid.
+* Cut will happen when applicable.
+* A cut token will traverse all the way back to home occupying the first available slot.
+
+![gameplpay](https://github.com/smokelaboratory/fludo/blob/master/gameplay.gif)
 
 ## License
 

@@ -5,6 +5,10 @@ Have you ever thought of gaining gaming experience with Flutter? Have you ever t
 [![License](https://img.shields.io/badge/License-Apache%202.0-2196F3.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 [![language](https://img.shields.io/github/languages/top/smokelaboratory/fludo.svg?style=for-the-badge&colorB=00bfab)](https://kotlinlang.org/)
 
+```diff
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+```
+
 ## Features
 
 * Tokens can come out of Home Area only when dice has 6.
@@ -19,6 +23,10 @@ Have you ever thought of gaining gaming experience with Flutter? Have you ever t
 
 This project is free to use and can act as a starting point for your awesome Ludo App.
 
+```diff
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+```
+
 
 ## Gameplay
 
@@ -32,6 +40,11 @@ In order to play the game, you need to first run it using a simulator or device.
 
 ![gameplpay](https://github.com/Apoorv-cloud/Flutter_Ludo/blob/master/images/ludo.jpg)
 
+
+```diff
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+```
+
 ## License
 
 MIT License
@@ -44,6 +57,10 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+
+```diff
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+```
 
 
 ### To explore more and get regular updates, do follow: <a href="https://www.brlakgec.in/" alt="Blockchain Research lab"> BLOCKCHAIN RESEARCH LAB </a> 

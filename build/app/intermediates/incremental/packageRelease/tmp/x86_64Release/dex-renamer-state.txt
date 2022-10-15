@@ -1,4 +1,0 @@
-#Tue Dec 29 22:55:51 IST 2020
-base.0=F\:\\Flutter_Ludo\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

@@ -1,6 +1,0 @@
-# Referenced at F:\Flutter_Ludo\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:17
--keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at F:\Flutter_Ludo\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:22
--keep class com.example.ludo.MainActivity { <init>(); }
-# Referenced at F:\Flutter_Ludo\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:17
--keep class io.flutter.app.FlutterApplication { <init>(); }

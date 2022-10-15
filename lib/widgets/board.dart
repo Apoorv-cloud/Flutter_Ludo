@@ -1,23 +1,26 @@
 import 'package:flutter/material.dart';
+
 import './ludo_row.dart';
 
 class Board extends StatelessWidget {
-  List<List<GlobalKey>> keyRefrences;
-  Board(this.keyRefrences);
+  final List<List<GlobalKey>> keyReferences;
+  const Board({Key? key, required this.keyReferences}) : super(key: key);
+
   List<Container> _getRows() {
     List<Container> rows = [];
     for (var i = 0; i < 15; i++) {
       rows.add(
         Container(
-          child: LudoRow(i,keyRefrences[i]),
           decoration: BoxDecoration(
             border: Border(
-              top: BorderSide(color: Colors.grey),
-              bottom:
-                  i == 14 ? BorderSide(color: Colors.grey) : BorderSide.none,
+              top: const BorderSide(color: Colors.grey),
+              bottom: i == 14
+                  ? const BorderSide(color: Colors.grey)
+                  : BorderSide.none,
             ),
             color: Colors.transparent,
           ),
+          child: LudoRow(row: i, keyRow: keyReferences[i]),
         ),
       );
     }
@@ -30,7 +33,7 @@ class Board extends StatelessWidget {
       child: Card(
         elevation: 10,
         child: Container(
-          decoration: BoxDecoration(
+          decoration: const BoxDecoration(
             image: DecorationImage(
               image: AssetImage("assets/Ludo_board.png"),
               fit: BoxFit.fill,

@@ -1,4 +1,4 @@
-#Tue Dec 29 22:46:18 IST 2020
-base.0=F\:\\Flutter_Ludo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
+#Sat Oct 15 22:42:24 PKT 2022
+base.0=/Volumes/Projects/FlutterProjects/ludo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
+path.0=classes.dex

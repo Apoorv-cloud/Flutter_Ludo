@@ -16,13 +16,6 @@
             </list>
           </value>
         </entry>
-        <entry key="change_app_package_name">
-          <value>
-            <list>
-              <option value="$PROJECT_DIR$/../../flutterversion/flutter/.pub-cache/hosted/pub.dartlang.org/change_app_package_name-1.1.0/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="characters">
           <value>
             <list>
@@ -196,7 +189,6 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../../flutterversion/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.9.0/lib" />
       <root url="file://$PROJECT_DIR$/../../flutterversion/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutterversion/flutter/.pub-cache/hosted/pub.dartlang.org/change_app_package_name-1.1.0/lib" />
       <root url="file://$PROJECT_DIR$/../../flutterversion/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.2.1/lib" />
       <root url="file://$PROJECT_DIR$/../../flutterversion/flutter/.pub-cache/hosted/pub.dartlang.org/clock-1.1.1/lib" />
       <root url="file://$PROJECT_DIR$/../../flutterversion/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.16.0/lib" />
